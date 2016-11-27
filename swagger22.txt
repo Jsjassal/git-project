@@ -1,0 +1,1 @@
+added swagger22.txt file from github.
